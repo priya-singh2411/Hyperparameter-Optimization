@@ -1,3 +1,2 @@
-# Hyperparameter-Optimization
-Hyperparameter optimization: 
+# Hyperparameter-Optimization:  
 Using different techniques of hyperparameter optimization on different Machine learning algorithms.
